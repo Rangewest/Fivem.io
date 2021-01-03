@@ -39,7 +39,7 @@ label{
 }
 input{
     padding: 10px;
-    margin: 20px;
+    margin: 40px;
     border-bottom: 1px solid #000;
     border: none;
     background: transparent;
@@ -51,15 +51,25 @@ input{
     outline: none;
 }
 button{
-    padding-left: 60px;
-    padding-right: 60px;
+    border: none;
+    background: none;
+    background: #fff;
+    height: 0px;
+    position: relative;
+    top: -5px;
+    cursor: pointer;
+    outline: none;
+}
+a{
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
     background: #107dac;
     border: none;
     outline: none;
     border-radius: 5px;
     cursor: pointer;
-    top: 14px;
+    top: 15px;
     position: relative;
 }

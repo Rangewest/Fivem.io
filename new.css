@@ -2,10 +2,7 @@
     margin: 0;
     padding: 0;
 }
-a{
-    color: aliceblue;
-    text-decoration: none
-}
+
 body{
     background-image: url(best-server-hosting-for-fivem.png);
     background-position: center;
@@ -50,17 +47,27 @@ input{
     top: 10px;
     outline: none;
 }
-
 button{
-    padding-left: 60px;
-    padding-right: 60px;
+    border: none;
+    background: none;
+    background: #fff;
+    height: 0px;
+    position: relative;
+    top: -5px;
+    cursor: pointer;
+    outline: none;
+}
+a{
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    height:;
     background: #107dac;
     border: none;
     outline: none;
     border-radius: 5px;
     cursor: pointer;
-    top: 14px;
+    top: 15px;
     position: relative;
 }
