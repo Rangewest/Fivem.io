@@ -53,21 +53,20 @@ button{
     background: #fff;
     height: 0px;
     position: relative;
-    top: -5px;
     cursor: pointer;
     outline: none;
 }
 a{
-    padding-top: 10px;
-    padding-bottom: 0px;
-    padding-left: 50px;
-    padding-right: 50px;
-    height:;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 10px;
     background: #107dac;
     border: none;
     outline: none;
     border-radius: 5px;
     cursor: pointer;
-    top: 15px;
+    top: 20px;
     position: relative;
 }
