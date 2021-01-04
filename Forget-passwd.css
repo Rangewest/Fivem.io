@@ -9,6 +9,22 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
 }
+.logo{
+    position: absolute;
+    width: 79px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    left: 10px;
+    top: -175px;
+    border-radius: 10px;
+    border: 1px solid #fff;
+}
+img{
+    width: 55px;
+    position: relative;
+}
 container{
     display: flex;
     justify-content: center;
