@@ -57,7 +57,7 @@ input{
     background: transparent;
     border-bottom: 5px solid #fff;
     width: 50%;
-    color: #fff;
+    color: #fff;    
     position: relative;
     top: 10px;
     outline: none;
@@ -65,12 +65,13 @@ input{
 button{
     border: none;
     background: none;
-    background: #fff;
-    height: 0px;
+    height: 40px;
     position: relative;
     cursor: pointer;
     outline: none;
-    font-size: 16px;
+    font-size: 20px;
+    color: #fff;
+    top: 1px;
 }
 a{
     padding-top: 15px;
@@ -78,11 +79,12 @@ a{
     padding-left: 70px;
     padding-right: 70px;
     border-radius: 10px;
-    background: #107dac;
+    background: #282b30;
     border: none;
     outline: none;
     border-radius: 5px;
     cursor: pointer;
     top: 15px;
     position: relative;
+    color: #fff;
 }
